@@ -1,0 +1,11 @@
+Topics
+-Arrow functions (anonymous)
+-Modules (my own modules)
+-Built in modules (os, fs, http, utils)
+-Packages
+-Callback functions
+-Promises
+-Asynchronous
+-Event loops
+-Async/Await
+-Event-driven programming

@@ -9,3 +9,6 @@ Topics
 -Event loops
 -Async/Await
 -Event-driven programming
+-EventEmitter
+-Streams
+-HTTP

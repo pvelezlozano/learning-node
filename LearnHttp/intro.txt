@@ -1,0 +1,26 @@
+Everytime we enter a webpage, we make a request to the server
+responsible to serving the resources
+
+We send a request, they send a response
+
+Requests Message
+
+Method: Get, post, put, patch, DELETE
+Url: /contact, /about
+Body (payload): Send data to the server
+Methods:
+Get (default request): Get Data
+Post: Submit Data
+Put : Update Data
+Delete: Delete data
+Patch: Partial changesHe descubierto cómo hacer esto. En resumen, debe enviar un "Informe de características" que consiste en los bytes 0x9, 0x0, 0x0, 0x0 al dispositivo de hidraw apropiado como root.
+
+
+
+Response Message
+Http version: HTTP/1.1 most probably
+Status code: 200,400,500,404
+Status text: OK, Error
+Headers: content-type,charset, etc
+Body: html, css, js, pdf, etc
+
